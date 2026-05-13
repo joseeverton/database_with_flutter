@@ -18,7 +18,6 @@ Criar um aplicativo Flutter capaz de:
 
 ### Cada cliente possuirá:
 - Nome
-- Nome
 - E-mail
 - Telefone
 - Profissão
